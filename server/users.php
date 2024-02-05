@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'Utilizatori',
+    'manage-subusers' => 'Gestioneaza Subutilizatorii',
+    'new-user' => 'Utilizator nou',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'Se pare ca nu ai alti subutilizatori.',
 
-    'name' => 'Name',
+    'name' => 'Nume',
     'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    '2FA-enabled' => '2FA Pornit',
+    'creation-date' => 'Data Crearii',
+    'modify-permissions' => 'Modifica permisiunile',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'Email-ul utilizatorului',
+    'user-email-description' => 'Introdu adresa de email a utilizatorului pe care doresti sa-l inviti ca subutilizator pentru acest server.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'Se modifica permisiunile pentru',
+    'view-permissions-for' => 'Vezi permisiunile pentru',
+    'create-new-subuser' => 'Creaza un nou subuser',
+    'must-not-exceed' => 'Adresa de email nu trebuie sa depaseasca 191 de caractere.',
+    'valid-email' => 'Un email valid trebuie introdus.',
+    'save' => 'Salveaza',
+    'invite-user' => 'Invita Utilizator',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'La crearea sau modificarea altor utilizatori pot fi selectate numai permisiunile carora contul tau este atribuit in prezent.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'Stergi acest subutilizator?',
+    'yes-remove' => 'Da, sterge subutilizatorul',
+    'are-you-sure-to-remove' => 'Sigur doresti sa elimini acest subutilizator? Acestia vor avea accesul la acest server imediat revocat.'
 ];

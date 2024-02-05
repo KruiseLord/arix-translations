@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'dashboard' => 'Dashboard',
+    'dashboard' => 'Panou de Bord',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
+        'title' => 'Detalii SFTP',
+        'server-address' => 'Adresele Serverelor',
         'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'description' => 'Parola ta SFTP este aceeasi cu parola pe care o utilizezi pentru a accesa acest panou.',
+        'launch-sftp' => 'Lanseaza SFTP',
     ],
     'server-info' => [
-        'title' => 'Server Info',
-        'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'title' => 'Informatii Server',
+        'hostname' => 'Nume Gazda',
+        'node-id' => 'ID-ul Nodului',
+        'server-id' => 'ID-ul Serverului',
         
-        'uptime' => 'Uptime',
+        'uptime' => 'Timp de Functionare',
         'server-ip' => 'Server IP',
     ],
 ];

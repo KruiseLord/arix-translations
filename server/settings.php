@@ -1,37 +1,37 @@
 <?php
 
 return [
-    'settings' => 'Settings',
+    'settings' => 'Setari',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
+        'title' => 'Detalii SFTP',
+        'server-address' => 'Adrese de Servere',
         'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'description' => 'Parola ta SFTP este aceeasi folosita in acest panou.',
+        'launch-sftp' => 'Lanseaza SFTP',
     ],
 
     'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
+        'title' => 'Schimba Detaliile Serverului',
+        'server-name' => 'Numele Serverului',
+        'server-description' => 'Descrierea Serverului',
+        'save' => 'Salveaza',
     ],
 
     'debug' => [
-        'title' => 'Debug Information',
+        'title' => 'Informatii de depanare',
         'node' => 'Node',
-        'server-id' => 'Server ID',
+        'server-id' => 'ID Server',
     ],
 
     'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
+        'title' => 'Reinstaleaza Serverul',
+        'reinstall-started' => 'Serverul tau a inceput procesul de reinstalare.',
+        'confirm-reinstallation' => 'Confirma reinstalarea serverului',
+        'yes-reinstall' => 'Da, reinstaleaza serverul',
+        'are-you-sure' => 'Serverul tau va fi oprit si unele fisiere pot fi sterse sau modificate in timpul acestui proces, sunteti sigur ca doriti sa continuati?',
+        'desc-1' => 'Reinstaleaza serverului il va opri, apoi va rula din nou scriptul de instalare care l-a configurat initial.',
+        'desc-2' => 'Unele fisiere pot fi sterse sau modificate in timpul acestui proces, te rugam sa faci o copie de rezerva a datelor inainte de a continua.',
+        'reinstall-server' => 'Se reinstaleaza serverul',
     ],
 ];

@@ -1,18 +1,18 @@
 <?php
 
 return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+    'network' => 'Internet',
+    'manage-allocation' => 'Gestioneaza Alocarea',
+    'create-allocation' => 'Creaza o Alocare',
+    'currently-using' => 'In prezent folosesti {{current}} din {{max}} alocarile permise pentru acest server.',
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Note',
+    'primary' => 'Primar',
+    'make-primary' => 'Faceti Principal',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Sterge Alocarea',
+    'remove-allocation-description' => 'Aceasta alocare va fi stearsa imediat din server-ul tau.',
+    'delete' => 'Sterge'
 ];
